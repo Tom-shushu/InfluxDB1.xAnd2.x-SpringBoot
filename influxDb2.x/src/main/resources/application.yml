@@ -1,0 +1,5 @@
+influx:
+  influxUrl: 'http://182.92.173.89:8086'
+  bucket: 'tom'
+  org: 'my_influxdb'
+  token: 'Rt23UemGI_cfS-lFDrurtjh46P1enfhrji-KrZYR04wUR1Yxw_oBCZPL6GmFYSDn20Q9gM_P9DIBhHc2RJjNkA=='

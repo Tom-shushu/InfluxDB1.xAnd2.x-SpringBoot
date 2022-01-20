@@ -1,0 +1,4 @@
+influx:
+  url: 'http://182.92.173.89:8086'
+  password: '66668888'
+  username: 'zhouhong'
